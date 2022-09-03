@@ -1,0 +1,26 @@
+(lambda (x) (+ (* x x) 1))
+(lambda (x) (+ (* x x) 1))
+
+(    '(1 2 3)) = (1 2 3)
+(car '(1 2 3)) = 1
+(cdr '(1 2 3)) = (2 3)
+(null? '(2 3)) = 0
+(null?    '()) = 1
+
+faculty(10) = 3628800
+faculty(10) = 3628800
+foobar = ("a" "bc" "def" "z")
+
+List(Symbol(lambda), List(Symbol(x)), List(Symbol(+), List(Symbol(*), Symbol(x), Symbol(x)), 1))
+(lambda (x) (+ (* x x) 1))
+
+(    '(1 2 3)) = (1 2 3)
+(car '(1 2 3)) = 1
+(cdr '(1 2 3)) = (2 3)
+(null? '(2 3)) = 0
+(null?    '()) = 1
+
+faculty(10) = 3628800
+faculty(10) = 3628800
+foobar = ("a" "bc" "def" "z")
+

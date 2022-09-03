@@ -1,0 +1,4 @@
+List()
+`package`.List.apply[String]("")
+Apply(TypeApply(Select(Select(Ident(scala.package), TermName("List")), TermName("apply")), List(TypeTree().setOriginal(Select(Ident(scala.Predef), TypeName("String"))))), List(Literal(Constant(""))))
+List()

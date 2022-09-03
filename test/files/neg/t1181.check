@@ -1,0 +1,6 @@
+t1181.scala:9: error: type mismatch;
+ found   : scala.collection.immutable.Map[Symbol,Symbol]
+ required: Symbol
+     _ => buildMap(map.updated(keyList.head, valueList.head), keyList.tail, valueList.tail)
+                  ^
+1 error

@@ -1,0 +1,39 @@
+newSource1.scala:4: warning: a pure expression does nothing in statement position; multiline expressions may require enclosing parentheses
+  List
+  ^
+newSource1.scala:5: warning: a pure expression does nothing in statement position; multiline expressions may require enclosing parentheses
+  Seq
+  ^
+newSource1.scala:6: warning: a pure expression does nothing in statement position; multiline expressions may require enclosing parentheses
+  Nil
+  ^
+[53]            T5064.super.<init>()
+[53]            T5064.super.<init>
+[53]            this
+[16:23]         scala.`package`.List().apply(scala.runtime.ScalaRunTime.wrapIntArray(Array[Int]{1}))
+[16:20]         scala.`package`.List().apply
+<16:20>         scala.`package`.List()
+<16:20>         scala.`package`.List
+<16:20>         scala.`package`
+[16:23]         scala.runtime.ScalaRunTime.wrapIntArray(Array[Int]{1})
+[20]            scala.runtime.ScalaRunTime.wrapIntArray
+[20]            scala.runtime.ScalaRunTime
+[20]            scala.runtime
+[26:32]         scala.`package`.Seq().apply(scala.runtime.ScalaRunTime.wrapIntArray(Array[Int]{1}))
+[26:29]         scala.`package`.Seq().apply
+<26:29>         scala.`package`.Seq()
+<26:29>         scala.`package`.Seq
+<26:29>         scala.`package`
+[26:32]         scala.runtime.ScalaRunTime.wrapIntArray(Array[Int]{1})
+[29]            scala.runtime.ScalaRunTime.wrapIntArray
+[29]            scala.runtime.ScalaRunTime
+[29]            scala.runtime
+[35:39]         scala.`package`.List()
+[35:39]         scala.`package`.List
+<35:39>         scala.`package`
+[42:45]         scala.`package`.Seq()
+[42:45]         scala.`package`.Seq
+<42:45>         scala.`package`
+[48:51]         scala.`package`.Nil()
+[48:51]         scala.`package`.Nil
+<48:51>         scala.`package`

@@ -1,0 +1,7 @@
+List[Int]
+collection.immutable.List.type
+class java.lang.RuntimeException is not a value
+List[Int]
+List
+collection.immutable.List.type
+scala.collection.immutable.List.type does not take parameters

@@ -1,0 +1,7 @@
+t6323a.scala:13: error: implicit error;
+!I ttag: TypeTag[Test]
+  No TypeTag available for Test
+
+      val value = u.typeOf[Test]
+                          ^
+1 error
