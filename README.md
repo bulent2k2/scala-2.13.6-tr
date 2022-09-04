@@ -1,3 +1,9 @@
+# Support for Turkish keywords in Scala 2.13.6
+
+This is only for use in [Kojo](https://github.com/bulent2k2/kojo).
+
+It is created from the source code 'scala-2.13.6.tar.gz' found in [Assets](https://github.com/scala/scala/releases/tag/v2.13.6)
+
 # Welcome!
 
 This is the home of the [Scala 2](https://www.scala-lang.org)
